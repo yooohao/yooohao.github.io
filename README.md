@@ -1,3 +1,3 @@
 # yooohao.github.io
 This is Zihao personal website!
-theme: minima
+余奇瑶是小可爱！
